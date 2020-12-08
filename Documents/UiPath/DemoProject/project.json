@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.2.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.61117635",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -37,7 +37,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "0e21207f-2da3-4152-960c-57bf6c5e8f66",
         "fileName": "SignUp_Testcases\\Verify_Signup_Testcases.xaml"
       }
@@ -45,6 +45,14 @@
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "SignUp_Testcases\\Verify_Signup_Testcases.xaml",
+      "uniqueId": "0e21207f-2da3-4152-960c-57bf6c5e8f66",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
